@@ -1,0 +1,39 @@
+.margin-header{
+	    margin-top: 23PX;
+	    font-family:courier;
+	    color:#9B30FF;
+	    background-image: url("http://media.gettyimages.com/videos/glittering-background-with-moving-small-stars-video-id473054693?s=640x640");
+}
+
+.padding-title{
+	padding: 5px;
+}
+
+.one{
+	color: blue;
+}
+
+.text-2{
+	font-family:courier;
+	color:#FF69B4
+	;
+}
+
+.bodycol{
+	background-image: url("http://data.whicdn.com/images/249105000/large.jpg")
+}
+
+
+.boogie{
+	color: green;
+	background-image: url("http://data.whicdn.com/images/249105000/large.jpg")
+}
+
+.navbarcol{
+	color:#FF69B4
+	;
+}
+
+.picrow{
+	background-image: url("http://data.whicdn.com/images/249105000/large.jpg")
+}
